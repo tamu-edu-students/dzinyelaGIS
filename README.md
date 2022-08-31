@@ -1,10 +1,10 @@
 #GEOG676
 |Labs    |
 |:................:|
-|[Lab1] (Lab1/README.md)|
-|[Lab2] (Lab2/README.md)|
-|[Lab3] (Lab3/README.md)|
-|[Lab4] (Lab4/README.md)|
-|[Lab5] (Lab5/README.md)|
-|[Lab6] (Lab6/README.md)|
-|[Lab7] (Lab7/README.md)|
+|[Lab1] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab1)|
+|[Lab2] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab2)|
+|[Lab3] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab3)|
+|[Lab4] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab4)|
+|[Lab5] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab5)|
+|[Lab6] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab6)|
+|[Lab7] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab7)|
