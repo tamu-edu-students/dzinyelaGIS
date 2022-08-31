@@ -1,6 +1,6 @@
 #GEOG676
 |Labs    |
-|:.......|
+|:........|
 [Lab1] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab%201)
 [Lab2] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab%202)
 [Lab3] (https://github.com/tamu-edu-students/dzinyelaGIS/tree/main/Lab%203)
