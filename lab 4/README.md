@@ -1,2 +1,1 @@
-# dzinyelaGIS
 #Richard Dzinyela
